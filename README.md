@@ -1,7 +1,21 @@
 https://neosvrjp.memo.wiki/
 がいったときのバックアップ
 ___
-
+<details>
+<summary>2021</summary>
+<pre>
+<code>
+<details>
+<summary>1月2021</summary>
+<pre>
+<code>
+<br>01/03/2020/ 以前現在更新分完了。
+</code>
+</pre>
+</details>
+</code>
+</pre>
+</details>
 <details>
 <summary>2020</summary>
 <pre>
@@ -13,6 +27,7 @@ ___
 <br>12/20/2020/「基本」「コンポーネント」「ヘッドレスサーバー」内情報編集。以前現在更新分完了。
 <br>12/22/2020/「基本」「アバター」「TIPS」書き直し。以前現在更新分完了。
 <br>12/25/2020/Melnusのリポジトリから「LogiX.E.I.」に移設。パスなど変換。ファイルブラウザ、Dev関連他更新。以前現在更新分完了。
+<br>12/31/2020/リポジトリの作り直し、LogiX関連の情報をTechbookに移動。日本語Wikiの改新に準じてWikiの再編集。
 </code>
 </pre>
 </details>
