@@ -1,5 +1,4 @@
-https://neosvrjp.memo.wiki/
-がいったときのバックアップ
+保管庫
 ___
 <details>
 <summary>2021</summary>
